@@ -1,0 +1,25 @@
+# Requirements pour le projet
+
+numpy
+pandas
+Pillow
+pydicom
+SimpleITK
+opencv-python
+matplotlib
+seaborn
+scikit-learn
+pyradiomics
+torch
+segment-anything
+supervision
+pytorch-lightning==2.5.0
+torchmetrics==1.6.1
+torchinfo
+PyQt6
+mysql-connector-python
+pydrive2
+gdown
+openai
+argon2-cffi
+python-dateutil 
